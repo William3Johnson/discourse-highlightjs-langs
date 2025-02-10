@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/OpenZeppelin/discourse-highlightjs-langs#readme",
   "dependencies": {
-    "esbuild": "^0.15.7",
+    "esbuild": "^0.25.0",
     "highlightjs-cairo": "^0.2.0",
     "highlightjs-solidity": "^2.0.5"
   },
